@@ -1,1 +1,1 @@
-"# eddiechan.herokuapp.com" 
+eddiechan.herokuapp.com
