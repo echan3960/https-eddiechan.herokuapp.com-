@@ -1,0 +1,8 @@
+node_modules
+venv
+
+heroku/
+static/dist
+*~
+*.bat
+*.pyc
